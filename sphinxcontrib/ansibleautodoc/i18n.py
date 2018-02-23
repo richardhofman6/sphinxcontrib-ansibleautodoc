@@ -13,6 +13,7 @@ texts = {
             'register': 'register',
             'run_once': 'run once',
             'with_items': 'with items',
+            'with_file': 'file',
             'environment': 'envvars',
             'tags': 'tags',
             'name': None, # used for field skip
@@ -28,6 +29,7 @@ texts = {
             'run_once': u'一度だけ実行',
             'register': u'変数代入',
             'with_items': u'繰り返し',
+            'with_file': u'ファイル', # Google Translate - may be inaccurate.
             'environment': u'環境変数',
             'tags': u'タグ',
             'name': None, # used for field skip
